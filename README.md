@@ -15,7 +15,7 @@
 
 ## このプログラムに必要なもの
 
-・棒読みちゃん https://chi.usamimi.info/Program/Appl...
+・棒読みちゃん https://chi.usamimi.info/Program/Application/BouyomiChan/
 
 ・python
 
