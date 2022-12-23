@@ -15,13 +15,16 @@
 
 ## このプログラムに必要なもの
 
-・https://github.com/isaackogan/TikTokLive
+・棒読みちゃん https://chi.usamimi.info/Program/Appl...
 
 ・python
 
-・棒読みちゃん https://chi.usamimi.info/Program/Appl...
+・https://github.com/isaackogan/TikTokLive
 
-・requests
+・requests　#localhost:50080の初期設定になってるので各自変えてね。特にいじってない人はそのままでなると思います。
+
+![image](https://user-images.githubusercontent.com/78278542/209413891-9f756c05-852d-48b4-b830-c7c8483397f9.png)
+
 
 ## 使い方
 
