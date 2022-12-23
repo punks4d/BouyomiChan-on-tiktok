@@ -10,7 +10,7 @@
 このプログラムを使うと、棒読みちゃんにTIKTOKのコメントを読み上げさせてキッズ達を釣ることができたり…… 実績としてはアクティブ視聴率は**3K**行きました。BOT多そう……
 
 
-[![サービス紹介動画](https://user-images.githubusercontent.com/78278542/209407442-5964f519-ec35-41f1-a861-19c920045026.png)]([https://youtu.be/5aKI900iGVo?t=1336](https://youtu.be/aCKbqU4QOK4))
+[![サービス紹介動画](https://user-images.githubusercontent.com/78278542/209407442-5964f519-ec35-41f1-a861-19c920045026.png)](https://youtu.be/aCKbqU4QOK4)
 
 
 ## このプログラムに必要なもの
