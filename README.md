@@ -1,4 +1,5 @@
-![image](https://user-images.githubusercontent.com/78278542/209409237-fea02f8f-4912-4766-85a0-12a3e989957b.png)
+
+![disk](https://user-images.githubusercontent.com/78278542/216150945-ecf76006-1a82-4052-b208-9924d43a53aa.gif)
 
 # BouyomiChan-on-tiktok
 # TIKTOKで「棒読みちゃん」を使う方法!
